@@ -1,7 +1,7 @@
 {
     "guardian": "100048777766367/nexus-12",
     "target": "100048777766367/monad",
-    "epoch": 15,
-    "decision": 0.5231,
+    "epoch": 16,
+    "decision": 0.5262,
     "status": "Protected_By_Nexus12"
 }
