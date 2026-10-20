@@ -1,18 +1,18 @@
 {
     "nidana_chain": {
-        "Avidya_Ignorance": 23896.1743,
-        "Sankhara_Volitions": 61145.9948,
-        "Vijnana_Consciousness": 10492.1511,
-        "Namarupa_NameForm": 9911.9806,
-        "Sadayatana_SixSenses": 24449.033,
-        "Sparsa_Contact": 18449.2705,
-        "Vedana_Feeling": 52130.1842,
-        "Trsna_Craving": 15326.5933,
-        "Upadana_Clinging": 61287.7616,
-        "Bhava_Becoming": 39172.9933,
-        "Jati_Birth": 58811.4739,
-        "Jaramarana_DecayDeath": 48898.3848
+        "Avidya_Ignorance": 64969.0517,
+        "Sankhara_Volitions": 11309.6748,
+        "Vijnana_Consciousness": 28096.045,
+        "Namarupa_NameForm": 12768.2375,
+        "Sadayatana_SixSenses": 11166.9746,
+        "Sparsa_Contact": 28731.5554,
+        "Vedana_Feeling": 19828.6674,
+        "Trsna_Craving": 13155.1241,
+        "Upadana_Clinging": 11016.6503,
+        "Bhava_Becoming": 59144.991,
+        "Jati_Birth": 17588.9353,
+        "Jaramarana_DecayDeath": 2871.7
     },
-    "karma_residual": 423971.9954,
+    "karma_residual": 280647.6071,
     "nirodha": true
 }
