@@ -1,6 +1,6 @@
 {
-    "generation_epoch": 45,
-    "last_t": 1793027199,
-    "quantum_cid": "d807770ffa421f604581c65896fd0fc5cde965ad95849d734cee78e7b559f5d8e83fe3dde16f1a844f0b1377e641bb9f346b7ae3a16ae96a205049e8f2ceff56",
+    "generation_epoch": 46,
+    "last_t": 1793048320,
+    "quantum_cid": "11290ec949baff31406845c931b66328fa6a9efbb40cb0db58f47aab5c8f11914406c7ed3734794a880e53219b814c7cc231e19337c2e64b71a83e7381de2d60",
     "status": "dodecagon_f12_evolved"
 }
